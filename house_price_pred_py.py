@@ -6,7 +6,7 @@
       "provenance": [],
       "gpuType": "T4",
       "mount_file_id": "1aWvX6V-Bg0s92lGDVYUXm8UwXL8KmmOI",
-      "authorship_tag": "ABX9TyMxHPs+/mWJk69Lc0yqQAhc",
+      "authorship_tag": "ABX9TyMEWzSO66JKiDiMvYcw2pLN",
       "include_colab_link": true
     },
     "kernelspec": {
@@ -26,7 +26,7 @@
         "colab_type": "text"
       },
       "source": [
-        "<a href=\"https://colab.research.google.com/github/amsalugetasew/python_projects/blob/main/house_price_pred_py.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+        "<a href=\"https://colab.research.google.com/github/amsalugetasew/python_projects/blob/main/house_price_pred_py.py\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
       ]
     },
     {
@@ -270,25 +270,21 @@
         "!streamlit run house_price_pred.py &"
       ],
       "metadata": {
-        "colab": {
-          "base_uri": "https://localhost:8080/"
-        },
-        "id": "yHX-9R6ILHJl",
-        "outputId": "c0c158a1-1cd9-4fd7-f28c-a64e49380dce"
+        "id": "yHX-9R6ILHJl"
       },
-      "execution_count": 79,
-      "outputs": [
-        {
-          "output_type": "stream",
-          "name": "stdout",
-          "text": [
-            "Usage: streamlit run [OPTIONS] TARGET [ARGS]...\n",
-            "Try 'streamlit run --help' for help.\n",
-            "\n",
-            "Error: Invalid value: File does not exist: house_price_pred.py\n"
-          ]
-        }
-      ]
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "!streamlit run htttps://hub.com/amsalugetasew/python_projects/blob/main/house_price_pred_py.py"
+      ],
+      "metadata": {
+        "id": "qRnO99XgPB4k"
+      },
+      "execution_count": null,
+      "outputs": []
     }
   ]
 }
